@@ -1,0 +1,15 @@
+{
+  "admin": {
+    "id": "admin-default",
+    "email": "admin@animestream.com",
+    "username": "admin",
+    "password": "Admin@123",
+    "role": "ADMIN",
+    "emailVerified": true,
+    "preferences": {
+      "theme": "dark",
+      "emailNotifications": false,
+      "language": "en"
+    }
+  }
+}
